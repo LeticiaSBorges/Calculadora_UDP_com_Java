@@ -16,3 +16,13 @@ A resposta que o servidor deve responder ao cliente é a mensagem: “O resultad
 	- Onde XXXXX é a mensagem do cliente e YYYY o resultado da operação.
  
 * Todas as mensagens devem ecoar no terminal console, ou usar janela gráfica (Jframe)
+
+### Algumas informações:
+
+i. A porta utilizada é 9876;
+
+ii. O servidor está no arquivo Server.java;
+
+iii. O cliente está funcionando no arquivo Principal.java;
+
+iv. Deve ser ininiado primeiro o Server.java e depois o Principal.java.
