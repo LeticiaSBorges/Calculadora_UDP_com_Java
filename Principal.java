@@ -82,7 +82,7 @@ public class Principal extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
    
-    
+    ////////////////////// Chama objeto enviamensagem
     private void calcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_calcularActionPerformed
        String equation = entrada.getText();
        enviamensagem(equation);                                           
